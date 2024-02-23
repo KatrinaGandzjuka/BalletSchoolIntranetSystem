@@ -1,0 +1,13 @@
+- Skolas direktoram (administratoram) būs iespēja:
+  - Pievienot, dzēst un rediģēt informāciju par skolas pedagogiem, audzēkņiem, viņu vecākiem, grupām un kostīmiem;
+  - Sūtīt un saņemt ziņojumus no kolektīva dalībniekiem;
+  - Veikt jauno lietotāju kontu ar noteiktu lomu pievienošanu sistēmai;
+- Skolas pedagogam būs iespēja:
+  - Piekļūt informācijai par savu grafiku, grupām, to audzēkņiem, viņu vecākiem un kostīmiem;
+  - Sūtīt un saņemt ziņojumus no kolektīva dalībniekiem;
+- Skolas audzēknim būs iespēja:
+  - Piekļūt informācijai par savu grupu, nodarbību sarakstu, pedagogu un kostīmiem;
+  - Sūtīt un saņemt ziņojumus no kolektīva dalībniekiem;
+- Audzēkņu vecākiem būs iespēja:
+  - Piekļūt informācijai par sava bērna grupu, nodarbību sarakstu, pedagogu un kostīmiem;
+  - Sūtīt un saņemt ziņojumus no kolektīva dalībniekiem;
