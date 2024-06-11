@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+    background-color: #6ea8fe;
+}
+
+.navbar-lighter {
+    background-color: #95bcf8;
+}
+
+.navbar-brighter {
+    background-color: #b0cefb;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+navbar-brand:hover {
+    color: #3a88fe;
+}
+.navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:focus {
+    color: #3a88fe;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #6ea8fe;
+    border-color: #6ea8fe;
+}
+
+.btn-primary:hover {
+    background-color: #3a88fe;
+    border-color: #3a88fe;
+}
+
+th,
+td {
+    border-bottom: 1px solid #95bcf8;
+}
+
+tr:hover {
+    background-color: #95bcf8;
+    color: #ffffff;
+}
+
+.card-header {
+    background-color: #6ea8fe;
+    color: #ffffff;
+}
+
+.card {
+    border-color: #95bcf8;
+}
